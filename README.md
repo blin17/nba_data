@@ -5,6 +5,7 @@ Takes in SportsVUData JSON game files and breaks it into smaller JSON chunks of 
 ## Usage
 
 python chunker.py --path=game_files/12.31.2015.GSW.at.HOU.json
+Note: path is the extracted 7z game file in json format
 
 ## Contributing
 
